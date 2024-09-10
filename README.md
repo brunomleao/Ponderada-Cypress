@@ -53,9 +53,17 @@ Ao abrir o Cypress pela primeira vez, ele criará automaticamente as pastas nece
 
 No arquivo braziljournal.cy.js, escrevi dois testes: um que verifica se a página principal do Brazil Journal carrega corretamente, e outro que verifica se os títulos das notícias estão visíveis.
 
+<img width="1045" alt="Captura de Tela 2024-09-10 às 10 45 57" src="https://github.com/user-attachments/assets/6bcb3735-6b30-4d46-a59f-d567211747eb">
+
+
 ### Documentação com Prints
 
 Nesta seção, se encontra prints das execuções dos testes para o site do Brazil Journal. Cada teste documentado é acompanhado de um print que demonstra os resultados e validações feitas durante a execução.
+
+<img width="1440" alt="Captura de Tela 2024-09-10 às 10 47 04" src="https://github.com/user-attachments/assets/3cebe714-d3d3-4e6d-b0c5-f05e5e962a9d">
+
+<img width="1435" alt="image" src="https://github.com/user-attachments/assets/d7dae8ae-5e21-4321-b247-97cea810ddc5">
+
 
 ## Conclusão
 
